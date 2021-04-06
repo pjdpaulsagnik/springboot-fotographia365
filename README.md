@@ -22,6 +22,6 @@ Database - Mysql
 
 ![plot](https://i.imgur.com/dXqZyJr.png)
 
-## Fetch Profile Image
+## Fetch Profile Image API Check
 
 ![plot](https://i.imgur.com/3aMUqMW.png)
