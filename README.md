@@ -7,3 +7,9 @@ The Project is developed under Two Frameworks - Angular 8 & Spring Boot. The pro
 
 The Back-end of the Application of how the API's are connecting both the Front-End as well as the Database is written under this framework - Spring Boot. 
 Database - Mysql
+
+## API Testing
+
+# Login API Check
+
+![plot](https://i.imgur.com/GfMp6IH.png)
