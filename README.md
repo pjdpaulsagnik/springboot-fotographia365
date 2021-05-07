@@ -10,7 +10,7 @@ Database - Mysql
 
 Folder Name Should be changed to -> 
 ## spring-boot-jwt-jpa-master 
-else STS won't read the Project
+else STS or subsequent or corresponding Software won't read the Project
 
 # API Testing
 
