@@ -9,7 +9,7 @@ The Back-end of the Application of how the API's are connecting both the Front-E
 Database - Mysql
 
 Folder Name Should be changed to -> 
-##spring-boot-jwt-jpa-master 
+## spring-boot-jwt-jpa-master 
 else STS won't read the Project
 
 # API Testing
