@@ -8,6 +8,9 @@ The Project is developed under Two Frameworks - Angular 8 & Spring Boot. The pro
 The Back-end of the Application of how the API's are connecting both the Front-End as well as the Database is written under this framework - Spring Boot. 
 Database - Mysql
 
+Folder Name Should be changed to -> ## spring-boot-jwt-jpa-master 
+else STS won't read the Project
+
 # API Testing
 
 ## Login API Check
