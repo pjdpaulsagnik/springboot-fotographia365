@@ -12,6 +12,7 @@ Folder Name Should be changed to ->
 ## spring-boot-jwt-jpa-master 
 else STS or subsequent or corresponding Software won't read the Project
 
+
 # API Testing
 
 ## Login API Check
